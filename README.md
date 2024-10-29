@@ -10,8 +10,10 @@
 
 * __INSERT__ - Inserir os dados nas tabelas
 
-* __UPTADE__ - Atualiza registro
+* __UPDATE__ - Atualiza registro
 
 * __DELETE__ - Remover registro
 
 * __SELECT__ - Para consultar e visualizar dados
+
+  CRUD (Create, Read , Update , Delete)
