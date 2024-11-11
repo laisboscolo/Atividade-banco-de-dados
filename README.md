@@ -16,4 +16,4 @@
 
 * __SELECT__ - Para consultar e visualizar dados
 
-*__CRUD__ - (Create, Read , Update , Delete)
+* __CRUD__ - (Create, Read , Update , Delete)
