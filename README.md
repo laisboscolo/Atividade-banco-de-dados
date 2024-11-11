@@ -1,6 +1,6 @@
 # Atividade banco de dados
 
- Comandos básicos de SQL
+# Comandos básicos de SQL
 
 * __CREATE__ - para criar banco de dados
 
@@ -16,4 +16,4 @@
 
 * __SELECT__ - Para consultar e visualizar dados
 
-  CRUD (Create, Read , Update , Delete)
+*__CRUD__ - (Create, Read , Update , Delete)
